@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    color: Purple;
+}
+
+html,body {
+    height:100%;
+    margin:0px;
+    padding: 0px;
+}
+
+#map {
+    height:80%;
+   
+}
+
+html{
+    background:url("http://theme.dima-lab.com/okab/images/landing-page-iphone/blurred-home-bg.jpg") no-repeat center center;
+}
+
+
+div.share{
+    margin-left:50%;
+}
